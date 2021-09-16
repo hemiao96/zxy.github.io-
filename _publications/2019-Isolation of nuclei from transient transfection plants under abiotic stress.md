@@ -9,7 +9,7 @@ venue: 'Acta biochimica et biophysica Sinica, 51(9) IF(2020)=3.848 CiteScore：Q
 
 paperurl: 'http://hemiao96.github.io/files/Isolation of nuclei from transient transfection plants under abiotic stress.pdf'
 
-citation: 'Wang, L., He, M., Wang, L., Lu, Y., Yan, B., Guo, Q., ... & Chen, B. (2019). Isolation of nuclei from transient transfection plants under abiotic stress. *Acta biochimica et biophysica Sinica, 51(9), 976-979.*'
+citation: 'Wang, L., He, M., Wang, L., Lu, Y., Yan, B., Guo, Q., ... & Chen, B. (2019). Isolation of nuclei from transient transfection plants under abiotic stress. Acta biochimica et biophysica Sinica, 51(9), 976-979.'
 ---
 
 [Download paper here](http://hemiao96.github.io/files/Isolation of nuclei from transient transfection plants under abiotic stress.pdf)

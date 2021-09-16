@@ -9,9 +9,9 @@
 locale                   : "name"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name He miao
+name                     : He miao
 description              : &description "personal description"
-url                      :"https://hemiao96.github.io" # the base hostname & protocol for your site e.g. 
+url                      :"https://hemiao96.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hemiao96/hemiao96.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

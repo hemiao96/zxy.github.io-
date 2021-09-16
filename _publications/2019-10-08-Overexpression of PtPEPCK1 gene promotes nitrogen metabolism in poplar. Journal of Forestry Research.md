@@ -9,5 +9,5 @@ paperurl: 'http://hemiao96.github.io/files/Overexpression of PtPEPCK1 gene promo
 citation: 'Wang, L., He, M., Chen, S., Wang, K., Cui, D., Huang, X., & Liu, L. (2019). Overexpression of PtPEPCK1 gene promotes nitrogen metabolism in poplar. Journal of Forestry Research, 30(6), 2289-2303.'
 ---
 
-[Download paper here](http://hemiao96.github.io/files/Overexpression of PtPEPCK1 gene promotes nitrogen metabolism in poplar. Journal of Forestry Research.pdf)
+[Download paper here](http://hemiao96.github.io/files/Overexpression of PtPEPCK1 gene promotes nitrogen metabolism in poplar.pdf)
 

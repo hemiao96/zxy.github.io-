@@ -9,7 +9,7 @@
 locale                   : "name"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : He miao
+name                     : "He miao"
 description              : &description "personal description"
 url                      : "https://hemiao96.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

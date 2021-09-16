@@ -6,6 +6,7 @@ excerpt: 'The isolation of nuclei is often the first step to study the processes
 Here, we describe an efficient scheme for the preparation of pure and intact nuclei using protoplasts as a system. The basic technique applies to a variety of protoplast types and is expected to facilitate the experiments in many plants. It is based on co cultivation of total Betula platyphylla. Target gene is taken into B. platyphylla using Agrobacterium vector system. Transient gene expression system offers several advantages over stable expression. For instance, transient gene expression is simple and easy to perform by virtue of its time and labor efficiency [1]. The purpose of this protocol is not only to complete the stress but also to obtain high quality nuclei and nuclear DNA yields.'
 date: 2019-08-14
 venue: 'Acta biochimica et biophysica Sinica, 51(9)'
+
 paperurl: 'http://hemiao96.github.io/files/Isolation of nuclei from transient transfection plants under abiotic stress.pdf'
 citation: 'Wang, L., He, M., Wang, L., Lu, Y., Yan, B., Guo, Q., ... & Chen, B. (2019). Isolation of nuclei from transient transfection plants under abiotic stress. Acta biochimica et biophysica Sinica, 51(9), 976-979.'
 ---

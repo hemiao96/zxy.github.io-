@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "name"
-title                    : "Your Name / Site Title"
+title                    : "He Miao"
 title_separator          : "-"
 name                     : "He miao"
 description              : &description "personal description"
@@ -85,9 +85,9 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "CHINA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=He+Miao+Northeast+Forestry+University"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=xC7ov20AAAAJ"
-  email            :
+  email            : "https://www.hemiao960619@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Miao-He-26"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hemiao96"
+  github           : "https://hemiao96.github.io/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/miao-he-454739220/"
   orcid            : "https://orcid.org/0000-0002-7033-0289"
   pinterest        :
   soundcloud       :

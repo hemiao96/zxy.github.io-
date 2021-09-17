@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "He Miao"
-  avatar           : "image-load.png"
+  avatar           : ""
   bio              : "a post-graduate student guided by Dr.Prof. Chuanping Yang (State Key Laboratory Of Tree Genetics And Breeding"
   location         : "CHINA"
   employer         :

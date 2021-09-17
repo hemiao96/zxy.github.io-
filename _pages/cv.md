@@ -47,18 +47,38 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Award
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* During the undergraduate studies, I have passed the CET text (College English Test), organized by Ministry of Education of the People's Republic of China, CET 4: 471, CET 6: 433, (See attached files)，and studying for IELTS these days.
+* The first year of my master's degree, I won the "Hand in Hand" inspirational scholarship from the Alumni Foundation.
+ 
+Additional Information:
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+From 2015 to 2017, half of my undergraduate studies, I had a practice at The Institute of Nature and Ecology of Heilongjiang Academy of Sciences on weekends and vacations for identification, classification of herbal plant samples, and prepare specimens of plants from Songnen Plain.
+Under the tutelage of Professor Yang Chuanping, an expert in white birch and red pine breeding, and fortunately, in The State Key Laboratory Of Tree Genetics And Breeding, the only national key laboratory in the field of forest tree breeding of China, I have learned a series of basic molecular biology operations such as gene cloning, vector construction, primer design, and other basic experimental operations like chip-seq, analysis of histone modifications .
+I am interested in using LSM800 laser confocal microscope and upright microscopes Axio Imager A2 to do fluorescent protein detection experiments such as image acquisition of fluorescence sample, FRAP, three-dimensional imaging of biological samples. I also do well in the chip-seq experimental procedure and some simple bioinformatics analysis (use IGV to align gene expression abundance.)My current research directions are the transcriptional regulation of stress resistance genes and focus on the interaction between histones and transcription factors, some transcription factors co-localize in mitochondria to exert their effects. 
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Heilongjiang “head geese” team: Harbin, Harbin, CN
+* guided by Dr.Prof. Chuanping Yang (State Key Laboratory Of Tree Genetics And Breeding )
+
+Funding
+======
+* Heilongjiang province philosophy social science plan（Discussion on the practice demonstration and future development model of forest health care based on the integration of scientific research, industry and ecology ）
+* Heilongjiang Provincial Finance Bureau (Harbin)
+* 2020 to 2023|Grant
+* Part of GRANT_NUMBER: 20JYD220
+
+* Fundamental Research Funds for the Central Universities（Construction of Betula platyphylla BpWRKY41 transcription factor drought-resistance and salt-tolerance regulatory network and its molecular mechanism analysis of stress resistance ）
+* Ministry of Education of the People's Republic of China (Harbin)
+* 2019-05 to 2022-05|Grant
+* Part of GRANT_NUMBER: 2572019BA14
+
+* National Natural Science Foundation of China（Study on the Molecular Mechanism of Poplar PtPEPCK1 Regulating Carbon and Nitrogen Balance ）
+* Ministry of Education of the People's Republic of China (Harbin)
+* 2019-01 to 2021-12|Contract
+* Part of GRANT_NUMBER: 31800565
+
+

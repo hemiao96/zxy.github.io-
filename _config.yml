@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  Education and qualifications:
+  English results:
     output: true
     permalink: /:collection/:path/
 
@@ -212,10 +212,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Education and qualifications
+  # _English results
   - scope:
       path: ""
-      type: Education and qualifications
+      type: English results
     values:
       layout: single
       author_profile: true

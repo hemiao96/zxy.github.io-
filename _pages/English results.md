@@ -3,8 +3,7 @@ layout: archive
 title: "English results"
 permalink: /page/2021-09-17-English results.md
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 English results
 CET 4

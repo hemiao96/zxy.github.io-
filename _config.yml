@@ -10,7 +10,7 @@ locale                   : "name"
 title                    : "He Miao"
 title_separator          : "-"
 name                     : "He miao"
-description              : &description "personal description"
+description              : &description "Miao He  Degree: Bachelor of Science Position: Master's Student  Current activity: molecular and apparent mechanisms of plant stress resistance;Use pymol2.0 for biomacromolecule design;Microscopic  Institution: Northeast Forestry University  Department: State Key Laboratory of Tree Breeding  Skills: Transcriptomics · Abiotic Stress · Fluorescence Microscopy + 1 other"
 url                      : "https://hemiao96.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hemiao96/hemiao96.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "He Miao"
-  avatar           : "image load.jpg"
+  avatar           : "/master/images/image load.png"
   bio              : "a post-graduate student guided by Dr.Prof. Chuanping Yang (State Key Laboratory Of Tree Genetics And Breeding"
   location         : "CHINA"
   employer         :

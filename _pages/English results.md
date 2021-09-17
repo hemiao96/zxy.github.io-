@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "English results"
-permalink: /page/2021-09-17-English results.md
+permalink: /pages/2021-09-17-English results.md
 author_profile: true
 
 ---

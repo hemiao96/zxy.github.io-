@@ -13,10 +13,3 @@ CET 4
 CET 6
 ======
 * paperurl: 'http://hemiao96.github.io/files/Details of the national college English Level 6 exam (CET6) scores.pdf'
-
-{% include base_path %} 
-
-
-{% for post in site.English results reversed %}
-  {% include archive-single.html %}
-{% endfor %}

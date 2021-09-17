@@ -11,8 +11,16 @@ citation: 'Wang, L., Cui, D., Zhao, X., & He, M. (2017). The important role of t
 
 [Download paper here](http://hemiao96.github.io/files/The important role of the citric acid cycle in plants.pdf)
 
-Recommended citation 1: Luo Y, Lin Y, Mo F, et al. Sucrose promotes strawberry fruit ripening and affects ripening-related processes[J]. International journal of genomics, 2019, 2019.
+Total citations: Cited by 6
 
-Recommended citation 2:Bisht N, Chauhan P S. Comparing the growth-promoting potential of Paenibacillus lentimorbus and Bacillus amyloliquefaciens in Oryza sativa L. var. Sarju-52 under suboptimal nutrient conditions[J]. Plant Physiology and Biochemistry, 2020, 146: 187-197.
+citation 1: Luo, Ya, et al. "Sucrose promotes strawberry fruit ripening and affects ripening-related processes." International journal of genomics 2019 (2019).
 
-Recommended citation 3:Soltaniband V. Effects of biostimulants on soil microbiota, plant development, crop productivity and fruit quality of protected strawberries[J]. 2020.
+citation 2: Bisht, Nikita, and Puneet Singh Chauhan. "Comparing the growth-promoting potential of Paenibacillus lentimorbus and Bacillus amyloliquefaciens in Oryza sativa L. var. Sarju-52 under suboptimal nutrient conditions." Plant Physiology and Biochemistry 146 (2020): 187-197.
+
+citation 3: Soltaniband V. Effects of biostimulants on soil microbiota, plant development, crop productivity and fruit quality of protected strawberries[J]. 2020.
+
+citation 4: Xiao, Lihong, et al. "Comparative Metabolome Analyses of Chinese Hickory Nut Kernels Highlight The Importance of Allocation Shift and Accumulation on Primary and Secondary Metabolites During In-Situ Germination." (2020).
+
+citation 5: Carlsson, Johanna M. "Nitrogen uptake and assimilation during Norway spruce somatic embryogenesis." (2018).
+
+citation 6: Matamoros, Víctor, et al. "Metabolomic and phenotypic implications of the application of fertilization products containing microcontaminants in lettuce (Lactuca sativa)." Scientific reports 11.1 (2021): 1-13.

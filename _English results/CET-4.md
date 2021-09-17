@@ -4,7 +4,7 @@ collection: English results
 type: ""
 permalink: /English results/Details of the national college English Level 4 exam (CET4) results
 venue: ""
-date: 
+date: 2014-11
 paperurl: 'http://hemiao96.github.io/files/Details of the national college English Level 4 exam (CET4) results.pdf'
 ---
 

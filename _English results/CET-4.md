@@ -1,12 +1,20 @@
----
-title: "Details of the national college English Level 4 exam (CET4) results"
-collection: English results
-type: ""
-permalink: /English results/Details of the national college English Level 4 exam (CET4) results
-venue: ""
-date: 2014-11
-paperurl: 'http://hemiao96.github.io/files/Details of the national college English Level 4 exam (CET4) results.pdf'
+----
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-[Download paper here](http://hemiao96.github.io/files/Details of the national college English Level 4 exam (CET4) results.pdf)
+This is a description of a teaching experience. You can use markdown like any other post.
 
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======

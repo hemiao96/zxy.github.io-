@@ -6,7 +6,7 @@ excerpt: 'The typical workflow of a RNA-seq assay involves the extraction and of
 date: 2017-07-04
 venue: 'Tree Genetics and Molecular Breeding, 7'
 paperurl: 'http://hemiao96.github.io/files/The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus.pdf'
-citation: '	Wang, L., He, M., & Zhao, Y. (2017). The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus. Tree Genetics and Molecular Breeding, 7.'
+citation: 'Wang, L., He, M., & Zhao, Y. (2017). The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus. Tree Genetics and Molecular Breeding, 7.'
 ---
 
 [Download paper here](http://hemiao96.github.io/files/The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus.pdf)

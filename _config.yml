@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "He Miao"
-  avatar           : "/master/images/image-load.png"
+  avatar           : "image-load.png"
   bio              : "a post-graduate student guided by Dr.Prof. Chuanping Yang (State Key Laboratory Of Tree Genetics And Breeding"
   location         : "CHINA"
   employer         :

@@ -1,16 +1,16 @@
 ---
 layout: archive
 title: "English results"
-collection: English results
-permalink: /_pages/English results.md
-
+permalink: /English results/
+author_profile: true
+redirect_from:
+  - /resume
 ---
-English results
 
-CET 4
-======
-* paperurl: 'http://hemiao96.github.io/files/Details of the national college English Level 4 exam (CET4) results.pdf'
+{% include base_path %}
 
-CET 6
+Education
 ======
-* paperurl: 'http://hemiao96.github.io/files/Details of the national college English Level 6 exam (CET6) scores.pdf'
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)

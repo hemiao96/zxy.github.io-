@@ -9,8 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+English results
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* CET 4
+======
+* paperurl: 'http://hemiao96.github.io/files/Details of the national college English Level 4 exam (CET4) results.pdf'
+
+CET 6
+======
+* paperurl: 'http://hemiao96.github.io/files/Details of the national college English Level 6 exam (CET6) scores.pdf'

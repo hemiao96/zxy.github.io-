@@ -5,12 +5,9 @@ permalink: /English results/
 author_profile: true
 ---
 
-{% if site.English results_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/English results.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.English results reversed %}
-  {% include archive-single-English results.html %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
 {% endfor %}
+

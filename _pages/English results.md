@@ -1,11 +1,12 @@
 ---
 layout: archive
 title: "English results"
-permalink: /pages/2021-09-15-English results.md
-author_profile: true
+collection: English results
+permalink: /_pages/English results.md
 
 ---
 English results
+
 CET 4
 ======
 * paperurl: 'http://hemiao96.github.io/files/Details of the national college English Level 4 exam (CET4) results.pdf'

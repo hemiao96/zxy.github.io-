@@ -2,19 +2,16 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Education and qualifications"
-    url: /Education and qualifications/    
-
+    
+  - title: "CV"
+    url: /cv/
+    
   - title: "research direction "
     url: /research direction/
     
   - title: "Funding"
     url: /Funding/   
-    
-  - title: "CV"
-    url: /cv/
-    
+   
   - title: "English results"
     url: /English results /
         

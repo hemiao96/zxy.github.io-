@@ -11,3 +11,4 @@ citation: 'Wang, L., He, M., Chen, S., Wang, K., Cui, D., Huang, X., & Liu, L. (
 
 [Download paper here](http://hemiao96.github.io/files/Overexpression of PtPEPCK1 gene promotes nitrogen metabolism in poplar.pdf)
 
+Cited by 1: Lian, Ling, et al. "PEPC of sugarcane regulated glutathione S-transferase and altered carbon–nitrogen metabolism under different N source concentrations in Oryza sativa." BMC plant biology 21.1 (2021): 1-15.

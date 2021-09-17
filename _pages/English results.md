@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "English results"
-permalink: /English results/
+permalink: /page/2021-09-17-English results
 author_profile: true
 redirect_from:
   - /resume

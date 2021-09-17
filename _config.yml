@@ -187,9 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  English results:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -212,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _English results
+  # _teaching
   - scope:
       path: ""
-      type: English results
+      type: teaching
     values:
       layout: single
       author_profile: true

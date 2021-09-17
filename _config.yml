@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  Education and qualifications:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

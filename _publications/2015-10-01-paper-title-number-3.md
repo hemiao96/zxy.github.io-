@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2017-07-04-The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus
+excerpt: 'The typical workflow of a RNA-seq assay involves the extraction and often further purification of mRNA from tissues; because rRNA reads are not informative it is best to reduce their levels. Fragmentation is essential factors and mostly library preparation protocols use for the detection of libraries, In our experiment the different reagents ratio were used to purify mRNA among those the highly purifies mRNA were used to construct transcriptome libraries. To assess the quality of the mRNA obtained from these methods, the cDNA libraries were analyzed on the Agilent 2100 Bioanalyzer. The option of 2.5 M LiCl binding buffer and 0.1 M LiCl elution buffer combined with 1% of LiDS could thoroughly remove the rRNA and other Impurities to obtain complete, high-purity mRNA molecules. The insights into molecular reactions that our framework allows can be further exploited to improve RNA-seq protocols, as we demonstrate experimentally.'
+date: 2017-07-04
+venue: 'Tree Genetics and Molecular Breeding, 7'
+paperurl: 'http://hemiao96.github.io/files/The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus.pdf'
+citation: '	Wang, L., He, M., & Zhao, Y. (2017). The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus. Tree Genetics and Molecular Breeding, 7.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://hemiao96.github.io/files/The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus.pdf)

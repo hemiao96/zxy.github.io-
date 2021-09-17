@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "English results"
-permalink: /page/2021-09-17-English results
+permalink: /page/2021-09-17-English results.md
 author_profile: true
 redirect_from:
   - /resume
@@ -18,6 +18,6 @@ CET 6
 ======
 * paperurl: 'http://hemiao96.github.io/files/Details of the national college English Level 6 exam (CET6) scores.pdf'
 
-{% for post in site.teaching reversed %}
+{% for post in site.English results reversed %}
   {% include archive-single.html %}
 {% endfor %}

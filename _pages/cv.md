@@ -43,7 +43,7 @@ Skills
 
 Publications
 ======
-  <https://hemiao96.github.io/publication/2019-10-08-Overexpression%20of%20PtPEPCK1%20gene%20promotes%20nitrogen%20metabolism%20in%20poplar>{% for post in site.publications %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

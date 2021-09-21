@@ -14,6 +14,7 @@ redirect_from:
 * CET 4
 ======
 * paperurl: 'http://hemiao96.github.io/files/Details of the national college English Level 4 exam (CET4) results.pdf'
+* permalink: /English results/2021-09-20-Details of the national college English Level 4 exam (CET4) results
 
 * [Download paper here](http://hemiao96.github.io/files/Details of the national college English Level 4 exam (CET4) results.pdf')
 

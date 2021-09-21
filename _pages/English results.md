@@ -21,5 +21,8 @@ redirect_from:
 * CET 6
 ======
 * paperurl: 'http://hemiao96.github.io/files/Details of the national college English Level 6 exam (CET6) scores.pdf'
+* citation: 'Wang, L., He, M., & Zhao, Y. (2017). The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus. Tree Genetics and Molecular Breeding, 7.'
+---
 
-* [Download paper here](http://hemiao96.github.io/files/Details of the national college English Level 6 exam (CET6) scores.pdf)
+[Download paper here](http://hemiao96.github.io/files/Details of the national college English Level 6 exam (CET6) scores.pdf)
+

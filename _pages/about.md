@@ -16,7 +16,7 @@ When you open this interface, I believe you have some interest in me. Next, plea
 
 Business card
 ======
-name:
+Name:
 
 Miao He
 

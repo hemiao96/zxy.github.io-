@@ -30,7 +30,7 @@ Master's Student
 
 Current activity:
 
-molecular and apparent mechanisms of plant stress resistance  
+Molecular and apparent mechanisms of plant stress resistance  
 
 Use pymol2.0 for biomacromolecule design 
 

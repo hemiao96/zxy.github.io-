@@ -1,7 +1,15 @@
 ---
-layout: page
+layout: archive
 title: "English results"
 permalink: /English results/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.English results reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 * CET 4

@@ -1,14 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "English results"
 permalink: /English results/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 
 
 * CET 4

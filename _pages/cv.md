@@ -26,14 +26,14 @@ Research experience
 
 * 2019-: master’s candidate （third year of three）Will graduate in 2022 summer
   * Northeast Forestry University（State Key Laboratory Of Tree Genetics And Breeding）
-  * Achievements: During the first year of my master’s studies, I have published two SCI papers,one is Isolation of nuclei from transient transfection plants under abiotic stress, https://doi.org/10.1093/abbs/gmz079；the other is Overexpression of PtPEPCK1 gene promotes nitrogen metabolismin poplar, https://doi.org/10.1007/s11676-019-01042-4 (I am the second author of both papers, the first author and corresponding author are my associate mentors). I did part of the writing of the two academic papers, all the picture making by Imager A2, all the data sorting，proofreading of the manuscript. 
+  * Achievements: During the first year of my master’s studies, I have published two SCI papers,one is Isolation of nuclei from transient transfection plants under abiotic stress, https://doi.org/10.1093/abbs/gmz079; the other is Overexpression of PtPEPCK1 gene promotes nitrogen metabolism in poplar, https://doi.org/10.1007/s11676-019-01042-4 (I am the second author of both papers, the first author and corresponding author are my associate mentors). I did part of the writing of the two academic papers, all the picture making by Imager A2, all the data sorting, proofreading of the manuscript. 
   * Participation in grants of National Natural Science Foundation of China (No.3180030530), Heilongjiang province philosophy social science plan(20JYD220)，and the Fundamental Research Funds for the Central Universities (2572019BA14)，
 
   * Supervisor: Dr.Prof.Chuanping Yang
   
 Skills
 ======
-* Skill 1: Imageing and visualization skills : Zen 2.6 blue, Artificial intelligence(AI), Visio 
+* Skill 1: Imaging and visualization skills: Zen 2.6 blue, Artificial intelligence(AI), Visio 
 * Skill 2: Laboratory and Characterization skills:
   * Sub-skill 2.1: Characterization of plant and plant cells with SEM, TEM, LSM
   * Sub-skill 2.2: Acquire fluorescence images by different kinds of microscope (e.g. ZEISS LSM 800, ZEISS Axio Imager.A2)
@@ -49,16 +49,16 @@ Publications
   
 Award
 ======
-* During the undergraduate studies, I have passed the CET text (College English Test), organized by Ministry of Education of the People's Republic of China, CET 4: 471, CET 6: 433, (See attached files)，and studying for IELTS these days.
+* During the undergraduate studies, I have passed the CET text (College English Test), organized by Ministry of Education of the People's Republic of China, CET 4: 471, CET 6: 433, (Both are passing scores), and studying for IELTS these days.
 * The first year of my master's degree, I won the "Hand in Hand" inspirational scholarship from the Alumni Foundation.
  
 Additional Information:
 ======
   From 2015 to 2017, half of my undergraduate studies, I had a practice at The Institute of Nature and Ecology of Heilongjiang Academy of Sciences on weekends and vacations for identification, classification of herbal plant samples, and prepare specimens of plants from Songnen Plain.
 
-  Under the tutelage of Professor Yang Chuanping, an expert in white birch and red pine breeding, and fortunately, in The State Key Laboratory Of Tree Genetics And Breeding, the only national key laboratory in the field of forest tree breeding of China, I have learned a series of basic molecular biology operations such as gene cloning, vector construction, primer design, and other basic experimental operations like chip-seq, analysis of histone modifications .
+  Under the tutelage of Professor Yang Chuanping, an expert in white birch and red pine breeding, and fortunately, in The State Key Laboratory Of Tree Genetics And Breeding, the only national key laboratory in the field of forest tree breeding of China, I have learned a series of basic molecular biology operations such as gene cloning, vector construction, primer design, and other basic experimental operations like chip-seq, analysis of histone modifications.
 
-  I am interested in using LSM800 laser confocal microscope and upright microscopes Axio Imager A2 to do fluorescent protein detection experiments such as image acquisition of fluorescence sample, FRAP, three-dimensional imaging of biological samples. I also do well in the chip-seq experimental procedure and some simple bioinformatics analysis (use IGV to align gene expression abundance.)My current research directions are the transcriptional regulation of stress resistance genes and focus on the interaction between histones and transcription factors, some transcription factors co-localize in mitochondria to exert their effects. 
+  I am interested in using LSM800 laser confocal microscope and upright microscopes Axio Imager A2 to do fluorescent protein detection experiments such as image acquisition of fluorescence sample, FRAP, three-dimensional imaging of biological samples. I also do well in the chip-seq experimental procedure and some simple bioinformatics analysis (use IGV to align gene expression abundance). My current research directions are the transcriptional regulation of stress resistance genes and focus on the interaction between histones and transcription factors, some transcription factors co-localize in mitochondria to exert their effects. 
 
   
 Service and leadership
@@ -68,7 +68,7 @@ Service and leadership
 
 Funding
 ======
-* Heilongjiang province philosophy social science plan（Discussion on the practice demonstration and future development model of forest health care based on the integration of scientific research, industry and ecology ）
+* Heilongjiang province philosophy social science plan (Discussion on the practice demonstration and future development model of forest health care based on the integration of scientific research, industry and ecology)
 * Heilongjiang Provincial Finance Bureau (Harbin)
 * 2020 to 2023|Grant
 * Part of GRANT_NUMBER: 20JYD220

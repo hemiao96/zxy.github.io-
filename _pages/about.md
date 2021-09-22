@@ -13,23 +13,32 @@ When you open this interface, I believe you have some interest in me. Next, plea
 
 Business card
 ======
+name:
+
 Miao He
 
 Degree:
+
 Master of Science
 
 Position:
+
 Master's Student
 
 Current activity:
+
 molecular and apparent mechanisms of plant stress resistance  
+
 Use pymol2.0 for biomacromolecule design 
+
 Mitochondrial morphology observed in vivo with the confocal microscope and Fluorescence Microscopy
 
 Institution:
+
 Northeast Forestry University
 
 Department:
+
 State Key Laboratory of Tree Breeding
 
 
@@ -48,16 +57,23 @@ Because of this, I will conduct an in-depth exploration of future research from 
 Disciplines:
 ------
 Molecular Breeding of Forest Tree  
+
 Biotechnology
+
 Developmental Biology
+
 Computational Biology
 
 Skills and expertise:
 ------
 Transcriptomics
+
 Abiotic Stress
+
 Fluorescence Microscopy
+
 Amino Acids
+
 Populus
 
 

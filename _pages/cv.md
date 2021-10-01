@@ -69,21 +69,21 @@ Funding
 ======
 * Heilongjiang province philosophy social science plan (Discussion on the practice demonstration and future development model of forest health care based on the integration of scientific research, industry and ecology)
 * Heilongjiang Provincial Finance Bureau (Harbin)
-* 2020 to 2023|Grant
+* 2020 to 2023|Participant.
 * Part of GRANT_NUMBER: 20JYD220
 
 
 
 * Fundamental Research Funds for the Central Universities (Construction of Betula platyphylla BpWRKY41 transcription factor drought-resistance and salt-tolerance regulatory network and its molecular mechanism analysis of stress resistance)
 * Ministry of Education of the People's Republic of China (Harbin)
-* 2019-05 to 2022-05|Grant
+* 2019-05 to 2022-05|Participant.
 * Part of GRANT_NUMBER: 2572019BA14
 
 
 
 * National Natural Science Foundation of China (Study on the Molecular Mechanism of Poplar PtPEPCK1 Regulating Carbon and Nitrogen Balance)
 * Ministry of Education of the People's Republic of China (Harbin)
-* 2019-01 to 2021-12|Contract
+* 2019-01 to 2021-12|Participant.
 * Part of GRANT_NUMBER: 31800565
 
 

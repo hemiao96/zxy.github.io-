@@ -34,7 +34,7 @@ Molecular and apparent mechanisms of plant stress resistance
 
 Use pymol2.0 for biomacromolecule design 
 
-Mitochondrial morphology observed in vivo with the confocal microscope and Fluorescence Microscopy
+Mitochondrial morphology observed in vivo with the confocal microscope and Fluorescence Microscopy.
 
 Institution:
 
@@ -55,7 +55,7 @@ Because of this, I will conduct an in-depth exploration of future research from 
 
 2. Next, I will use various microscopes (LSM, TEM, SEM...) to observe the morphology of mitochondria in plant cells under different pressures and the cell clusters of kinds of organs in various diseases， with the natural morphology.
 
-3. Finally, I will use Chip-seq and RNA-seq to identify the different genes between diseased cells and normal cells under adversity. Then, I select typical genes and transfer a gene expressing co-localized transcription factors in mitochondria to generate over-expression samples to observe the state of plant cell mitochondria under different stresses and compare them with natural tissue cells. Differently, I will knock out genes expressing co-localize in mitochondria to observe the morphology of mitochondria in cell clusters in different organs of kinds of diseases and also compare them with natural tissue cells. By using pymol 2.0 to construct the three-dimensional protein structure of transcription factors, I am going to analyze the tertiary and quaternary structure of the protein. And I will destroy a single domain, or destroy many institutional domains to explore whether there are connections between many domains, to explore whether there are connections between multiple domains, and explore mitochondrial abnormalities internal mechanism of behavior under adversity conditions.
+3. Finally, I will use Chip-seq and RNA-seq to identify the different genes between diseased and normal cells under adversity. Then, I select typical genes and transfer a gene expressing co-localized transcription factors in mitochondria to generate over-expression samples to observe the state of plant cell mitochondria under different stresses and compare them with natural tissue cells. Differently, I will knock out genes expressing co-localize in mitochondria to observe the morphology of mitochondria in cell clusters in different organs of kinds of diseases and compare them with natural tissue cells. By using Pymol 2.0 to construct the three-dimensional protein structure of transcription factors, I will analyze the tertiary and quaternary structure of the protein. And I will destroy a single domain or destroy many institutional domains to explore connections between many domains, research whether there are connections between multiple domains, and investigate mitochondrial abnormalities internal mechanism of behaviour under adversity conditions.
 
 Disciplines:
 ------

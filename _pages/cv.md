@@ -58,7 +58,13 @@ Additional Information:
 
   Under the tutelage of Professor Yang Chuanping, an expert in white birch and red pine breeding, and fortunately, in The State Key Laboratory Of Tree Genetics And Breeding, the only national key laboratory in the field of forest tree breeding of China, I have learned a series of basic molecular biology operations such as gene cloning, vector construction, primer design, and other basic experimental operations like ChIP-seq, analysis of histone modifications.
 
-  I am interested in using LSM800 laser confocal microscope and upright microscopes Axio Imager A2 to do fluorescent protein detection experiments such as image acquisition of fluorescence sample, FRAP, three-dimensional imaging of biological samples. I also do well in the chip-seq experimental procedure and simple bioinformatics analysis (IGV to align gene expression abundance). My current research directions are the transcriptional regulation of stress resistance genes and focus on the interaction between histones and transcription factors; some transcription factors co-localize in mitochondria to exert their effects. 
+  I am interested in using LSM800 laser confocal microscope and upright microscopes Axio Imager A2 to do fluorescent protein detection experiments such as image acquisition of fluorescence sample, FRAP, three-dimensional imaging of biological samples.
+  
+  It's worth mentioning that I'm very interested in the use of microscopes and protein 3D modelling. AS shown in my CV, I have a strong interest in microscopes, and I have had good communication with technicians of Zeiss Microscopy in the “ZEISS On Your Campus” (ZOYC) at the end of October 2019. I got fluorescence images from different microscopes like ZEISS LSM 800 and ZEISS Axio Imager A2. The pictures I took have been published in the article “Isolation of nuclei from transient transfection plants under abiotic stress” in the attachment.
+
+  To deeply understand the principle of optical imaging, I used my weekends and vacations to summarize the tutorials on the website (https://micro.magnet.fsu.edu/) maintained by our Optical Microscopy at the National High Magnetic Field Laboratory and translate them into Chinese all the 2020 year around.
+
+  I also do well in the chip-seq experimental procedure and simple bioinformatics analysis (IGV to align gene expression abundance). My current research directions are the transcriptional regulation of stress resistance genes and focus on the interaction between histones and transcription factors; some transcription factors co-localize in mitochondria to exert their effects. 
   
 Service and leadership
 ======

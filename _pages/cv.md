@@ -17,18 +17,18 @@ Education
 Research experience
 ======
 * 2014-2018: Undergraduate
-           * Northeast Forestry University (National Life Science and Technology Talent Training Base)
-           * Achievements: Studied in Biotechnology (National Life Science and Technology Talent Training Base) of Northeast Forestry University, obtained a bachelor of science degree. 
-           * Went to the SongNen Plain of china to collect samples and count the plant diversity with the professor of the Institute of Nature Resources and Ecology of Heilongjiang Academy of Sciences from 2015 to 2017.
-           * Had a practice at the Institute of Nature and Ecology, Heilongjiang Academy of Sciences from 2015 to 2017 at weekends and vacations.
-           * Published 2 English articles: The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus; The important role of the citric acid cycle in plants.
+   * Northeast Forestry University (National Life Science and Technology Talent Training Base)
+   * Achievements: Studied in Biotechnology (National Life Science and Technology Talent Training Base) of Northeast Forestry University, obtained a bachelor of science degree. 
+   * Went to the SongNen Plain of china to collect samples and count the plant diversity with the professor of the Institute of Nature Resources and Ecology of Heilongjiang Academy of Sciences from 2015 to 2017.
+   * Had a practice at the Institute of Nature and Ecology, Heilongjiang Academy of Sciences from 2015 to 2017 at weekends and vacations.
+   * Published 2 English articles: The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus; The important role of the citric acid cycle in plants.
 
   * Supervisor: Dr.Lina Wang
 
 * 2019-:     master’s candidate (third year of three) Will graduate in 2022 summer
-           * Northeast Forestry University (State Key Laboratory Of Tree Genetics And Breeding)
-           * Achievements: Published 2 SCI index articles in the first year of my master’s studies in 2019: Isolation of nuclei from transient transfection plants under abiotic stress; Overexpression of PtPEPCK1 gene promotes nitrogen metabolism in poplar.
-           * Made a report and had good communication with technicians of Zeiss Microscopy in the "ZEISS On Your Campus" (ZOYC) at the end of October 2019. 
+  * Northeast Forestry University (State Key Laboratory Of Tree Genetics And Breeding)
+  * Achievements: Published 2 SCI index articles in the first year of my master’s studies in 2019: Isolation of nuclei from transient transfection plants under abiotic stress; Overexpression of PtPEPCK1 gene promotes nitrogen metabolism in poplar.
+  * Made a report and had good communication with technicians of Zeiss Microscopy in the "ZEISS On Your Campus" (ZOYC) at the end of October 2019. 
 
   * Supervisor: Dr.Prof.Chuanping Yang
   

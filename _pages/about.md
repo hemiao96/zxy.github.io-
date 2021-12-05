@@ -14,8 +14,7 @@ Dear Professor:
 When you open this interface, I believe you have some interest in me. Next, please allow me to show myself further to you! 
 ======
 
-BSub-skill 2.1:
-======
+
 Name:
 
 Miao He

@@ -14,7 +14,7 @@ description              : &description "Miao He  Degree: Bachelor of Science Po
 url                      : "https://hemiao96.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hemiao96/hemiao96.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "500-300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "He Miao"
   avatar           : "profile.png"
-  bio              : "a post-graduate student guided by Dr.Prof. Chuanping Yang (State Key Laboratory Of Tree Genetics And Breeding"
+  bio              : "a post-graduate student guided by Dr.Prof. Chuanping Yang (State Key Laboratory Of Tree Genetics And Breeding）"
   location         : "CHINA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=He+Miao+Northeast+Forestry+University"

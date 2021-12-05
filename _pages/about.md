@@ -14,36 +14,55 @@ Dear Professor:
 When you open this interface, I believe you have some interest in me. Next, please allow me to show myself further to you! 
 ======
 
-Business card
+BSub-skill 2.1:
 ======
 Name:
 
 Miao He
+======
 
 Degree:
 
 Master of Science
+======
 
 Position:
 
 Master's Student
+======
 
 Current activity:
 
-Molecular and apparent mechanisms of plant stress resistance  
+Transcriptional regulation and epigenetic modification 
+======
 
 Use pymol2.0 for biomacromolecule design 
+======
 
-Mitochondrial morphology observed in vivo with the confocal microscope and Fluorescence Microscopy.
+Mitochondrial morphology observed in vivo with the confocal microscope and Fluorescence Microscopy
+======
 
 Institution:
 
 Northeast Forestry University
+======
 
 Department:
 
 State Key Laboratory of Tree Breeding
+======
 
+Personal Statement
+======
+As early as my undergraduate, I could see that transcription factors (TFs) regulate plant growth and metabolism. It led me to focus on the TFs regulation mechanism under adversity as I sought to apply my research in a more specific and digitally focused area. I published one article named The important role of the citric acid cycle in plants, using RNA-seq technology to analyze differential gene expression at the transcriptome level to study the TCA cycle. I also learned that purification of mRNA influences the fragmentation for construction transcription libraries of Populus.
+
+With the professor of the Institute of Nature Resources and Ecology of Heilongjiang Academy of Sciences, I went to the SongNen Plain of china to collect samples and analyze the plant diversity from 2015 to 2017. The detailed understanding of "plant taxonomy" and "according to unique characteristics of things to make classification" influenced my following research, especially the deep knowledge of transcription factors. It classified that many proteins as transcription factors. However, they are also enzymes and even cofactors in histone modification.
+
+During my master's degree at the Northeast Forestry University (State Key Laboratory Of Tree Genetics And Breeding), I had two primary focuses: tree genetics and molecular breeding and epigenetic modification of plant cells. I was interested in how particular gene and transcription factors react under abiotic stress, so I wrote my dissertation on how PtPEPCK1 promotes nitrogen metabolism in Poplar by over-expressing the PEPCK gene (https://doi.org/10.1007/s11676-019-01042-4) in 2019, the first year of my master's degree. My proposed research takes this theoretical research a step further, exploring the mode of transcription factor regulation under adversity conditions.
+
+From then on, I used protoplasts to study plant cell genetics and published Isolation of nuclei from transient transfection plants under abiotic stress, https://doi.org/10.1093/abbs/gmz079. Since the plant protoplasts or callus are like animal cells because of almost no cell wall, I can use animal experiments methods to study them. （That is one reason that I have confidence in applying for this position. Because of my background in the cultivation of callus and protoplast, I possessed a perspective that my fellow empirically minded colleagues, with backgrounds in breeding at individual plant level, lacked. Using this unique perspective, I am now seeking to develop my dissertation research through a PhD project.
+
+I conducted fieldwork in the LiangShui Nature reserve of china and gained direct experience collecting samples for Betula platyphylla growth under adversity conditions (e.g., salt stress, drought, cold) and analyzing them. I developed an aptitude for rapid measure research and enjoyed the challenge of comparing this population data across kinds of bioinformatics analysis methods. 
 
 Research direction:
 ======

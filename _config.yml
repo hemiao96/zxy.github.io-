@@ -14,7 +14,7 @@ description              : &description "Miao He  Degree: Bachelor of Science Po
 url                      : "https://hemiao96.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hemiao96/hemiao96.github.io"
-teaser                   :  "500-300.png"
+teaser                   : "500-300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true

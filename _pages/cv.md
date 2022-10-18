@@ -11,38 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in National Life Science and Technology Talent Training Base, Northeast Forestry University, 2014-2018
-* M.S. in State Key Laboratory Of Tree Genetics And Breeding, Northeast Forestry University, 2019-
+* Ph.D. Candidate in Department of Cell Biology in College of Life Sciences (State Key Laboratory of Medicinal Chemical Biology), Nankai University       09/2018-
+* Bachelor of Science in Department of Biotechnology in College of Life Sciences, Northeast Forestry University        09/2014-06/2018
 
 Research experience
 ======
-* 2014-2018: Undergraduate
-   * Northeast Forestry University (National Life Science and Technology Talent Training Base)
-   * Achievements: Studied in Biotechnology (National Life Science and Technology Talent Training Base) of Northeast Forestry University, obtained a bachelor of science degree. 
-   * Went to the SongNen Plain of china to collect samples and count the plant diversity with the professor of the Institute of Nature Resources and Ecology of Heilongjiang Academy of Sciences from 2015 to 2017.
-   * Had a practice at the Institute of Nature and Ecology, Heilongjiang Academy of Sciences from 2015 to 2017 at weekends and vacations.
-   * Published 2 English articles: The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus; The important role of the citric acid cycle in plants.
+* 09/2018--: Ph.D. Candidate, Will graduate in 2023 summer
+   * College of Life Sciences (State Key Laboratory of Medicinal Chemical Biology), Nankai University
+   * Participated in Chinese National Natural Science Foundation (NSFC31530027, 31701284, 31470779) and National Key R&D Program of China [2017YFA0102600] 
+   * Employed CRISPR/Cas9 in ESCs deleting Rara/Rxra (RA receptors), enhancers and RAREs, and analyzed RNA-seq, ChIP-seq and Capture C, found that enhancer architecture-dependent multilayered transcriptional regulation at the Halr1–Hoxa1 locus orchestrating RA signaling-induced early lineage differentiation of ESCs. The results published in Nucleic Acids Research (2021, Vol. 49, No. 20. [doi: 10.1093/nar/gkab1001](https://doi.org/10.1093/nar/gkab1001)).
+   * Analyzed ChIP-seq and 4C-seq, identified two enhancers that were activated by RA treatment and 4C data showed long-range interactions between HoxB genes and the two enhancers. The results published in Stem Cells And Development (2021, Vol. 30, No. 13, [doi: 10.1089/scd.2021.0020](https://doi.org/10.1089/scd.2021.0020)).
+   * Constructed Skap2 knockdown cell lines using RNAi system, extracted RNA, synthesed cDNA and performed qRT-PCR, extracted protein and carried out Western Blot, and related data analysis were published in Nucleic Acids Research (2019, Vol. 47, No. 13. [doi: 10.1093/nar/gkz482](https://doi.org/10.1093/nar/gkz482)).
+   * Employed CRISPR/Cas9 in ESCs deleting Hoxa2, differentiated ESCs by forming embryoid bodies, perforemed qPCR and analyzed the change of lineage marker genes expression, completed undergraduate thesis “The role of Hoxa2 gene in Differentiation of Mouse Embryonic Stem Cells”
 
-  * Supervisor: Dr.Lina Wang
+  * Supervisor: Prof.Dr.WanGe Lv
 
-* 2019-:     master’s candidate (third year of three) Will graduate in 2022 summer
-  * Northeast Forestry University (State Key Laboratory Of Tree Genetics And Breeding)
-  * Achievements: Published 2 SCI index articles in the first year of my master’s studies in 2019: Isolation of nuclei from transient transfection plants under abiotic stress; Overexpression of PtPEPCK1 gene promotes nitrogen metabolism in poplar.
+* 03/-2017--12/2017: Undergraduate 
+  * College of Life Sciences, Northeast Forestry University
+  * Participated in “Fundamental Research Funds for the Central Universities” funding project (2572015EA05), Cloned BPAP2 promoter and constructed plant expression vector, Reviewed and collated the literature on SPL
+
   * Made a report and had good communication with technicians of Zeiss Microscopy in the "ZEISS On Your Campus" (ZOYC) at the end of October 2019. 
+  * Published a review “Research advances and molecular mechanism on SPL transcription factors in regulating plant flower development”(https://www.cabdirect.org/cabdirect/abstract/20183217932)
+  * Published 2 English articles: The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus; The important role of the citric acid cycle in plants
 
-  * Supervisor: Dr.Prof.Chuanping Yang
   
 Skills
 ======
-* Skill 1: Imaging and visualization skills: Zen 2.6 blue, Artificial intelligence(AI), Visio 
-* Skill 2: Laboratory and Characterization skills:
-  * Sub-skill 2.1: Characterization of plant and plant cells with SEM, TEM, LSM
-  * Sub-skill 2.2:Analyze the regulation mechanism and histone modifications of transcription factors  by ChIP-seq 
-and RNA-seq
-  * Sub-skill 2.3: Acquire fluorescence images by different kinds of the microscope (e.g. ZEISS LSM 800, ZEISS Axio Imager.A2)
-  * Sub-skill 2.4: protein structure analysis with Pymol 2.0
-* Skill 3: Nucleic acid and protein molecules designing skills: SnapGene Viewer, DNAMAN, Oligo 7, Bioedit 7, Primer 6
-* Skill 4: Data analysis skills: IBM SPSS statistics 26, GraphPad Prism 8, Minitab 19, IGV, TBtools
+* Skill 1: Cell culture and differentiation (Adherent differentiation, RA-induced ESCs differentiation);
+* Skill 2: Embryoid bodies (EBs) formation, AP(Alkaline Phosphatase) staining, Construction of stably transduced over-expressed ESC lines, CRISPR/Cas9-mediated genome editing in ESCs(deletion, poly-A knock-in);
+* Skill 3: Generation of knockdown cell lines(RNAi system)
+* Skill 4: DNA extraction, PCR, RNA extraction, cDNA synthesis, quantitative Real-Time PCR (qRT-PCR), Protein extraction and Western Blot
+* Skill 5: RNA-seq and data analysis, Gene ontology (GO) and KEGG pathway analysis, Gene set enrichment analysis (GSEA), ChIP-qPCR, ChIP-seq and data analysis , 4C-seq
+* Skill 6: Fluorescence images, FRAP, three-dimensional imaging (ZEISS LSM 800)
 
 Publications
 ======
@@ -52,33 +52,7 @@ Publications
   
 Award
 ======
-* During the undergraduate studies, I have passed the CET text (College English Test), organized by Ministry of Education of the People's Republic of China, CET 4: 471, CET 6: 433, (Both are passing scores), and studying for IELTS these days.
-* The first year of my master's degree, I won the "Hand in Hand" inspirational scholarship from the Alumni Foundation.
- 
-Service and leadership
-======
-* Heilongjiang “head geese” team: Harbin, Harbin, CN
-* guided by Dr Prof. Chuanping Yang (State Key Laboratory Of Tree Genetics And Breeding)
-
-Funding
-======
-* Heilongjiang province philosophy social science plan (Discussion on the practice demonstration and future development model of forest health care based on the integration of scientific research, industry and ecology)
-* Heilongjiang Provincial Finance Bureau (Harbin)
-* 2020 to 2023|Participant.
-* Part of GRANT_NUMBER: 20JYD220
-
-
-
-* Fundamental Research Funds for the Central Universities (Construction of Betula platyphylla BpWRKY41 transcription factor drought-resistance and salt-tolerance regulatory network and its molecular mechanism analysis of stress resistance)
-* Ministry of Education of the People's Republic of China (Harbin)
-* 2019-05 to 2022-05|Participant.
-* Part of GRANT_NUMBER: 2572019BA14
-
-
-
-* National Natural Science Foundation of China (Study on the Molecular Mechanism of Poplar PtPEPCK1 Regulating Carbon and Nitrogen Balance)
-* Ministry of Education of the People's Republic of China (Harbin)
-* 2019-01 to 2021-12|Participant.
-* Part of GRANT_NUMBER: 31800565
+* 2018-2022    The “School Outstanding Student”, the First Prize Scholarship and the Second Prize Scholarship.
+* 2014-2018    The “Merit Student”, “Excellent Student Cadre”, “Excellent League Member”, “Honor graduate”, the Special Prize Scholarship and First Prize Scholarship.
 
 

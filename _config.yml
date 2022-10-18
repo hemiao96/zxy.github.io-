@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "name"
-title                    : "He Miao"
+title                    : "XueYuan Zhao"
 title_separator          : "-"
-name                     : "He miao"
-description              : &description "Miao He  Degree: Bachelor of Science Position: Master's Student  Current activity: molecular and apparent mechanisms of plant stress resistance;Use pymol2.0 for biomacromolecule design;Microscopic  Institution: Northeast Forestry University  Department: State Key Laboratory of Tree Breeding  Skills: Transcriptomics · Abiotic Stress · Fluorescence Microscopy + 1 other"
-url                      : "https://hemiao96.github.io"
+name                     : "XueYuan Zhao"
+description              : &description "XueYuan Zhao Degree: Bachelor of Science Position: Ph.D. Candidate  Current activity: RA (Retinoic acid) induced 3D chromatin architecture during ESCs early differetiation  Institution: NanKai University  Department: STATE KEY LABORATORY OF MEDICINAL CHEMICAL BIOLOGY  Skills: Cell culture and differentiation · Construction of knockout, knockdown and knock-in ESC lines · Protein extraction + 1 other"
+url                      : "https://hemiao96.github.io/zxy.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hemiao96/hemiao96.github.io"
+repository               : "hemiao96/zxy.github.io"
 teaser                   : "400x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "He Miao"
+  name             : "XueYuan Zhao"
   avatar           : "400x300.png"
-  bio              : "a post-graduate student guided by Dr.Prof. Chuanping Yang (State Key Laboratory Of Tree Genetics And Breeding）"
+  bio              : "A Ph.D. Candidate guided by Dr. Prof. Wange Lv (STATE KEY LABORATORY OF MEDICINAL CHEMICAL BIOLOGY)"
   location         : "CHINA"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=He+Miao+Northeast+Forestry+University"
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=xC7ov20AAAAJ"
-  email            : "https://www.hemiao960619@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Miao-He-26"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Xueyuan+Zhao%EF%BC%8CState+Key+Laboratory+of+Medicinal+Chemical+Biology"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=e25fvWMAAAAJ&view_op=list_works"
+  email            : "https://www.ZhaoXY9511@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/miao-he-454739220"
-  orcid            : "https://orcid.org/0000-0002-7033-0289"
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0003-4964-4352"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
